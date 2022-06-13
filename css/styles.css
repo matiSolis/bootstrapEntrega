@@ -1,4 +1,21 @@
+/* .div div div img{
+    display: center;
+    margin: 50px;
+} */
+#carouselExampleFade{
+    display: block;
+    max-width: 450px;
+    max-height: 450px;
+}
+.separador {
+    background-color:rgb(233, 198, 124);
+    height: 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
 .footer {
+    margin-top: 75px;
     background-color: rgb(37, 37, 37);
     color: #fff;
 }
