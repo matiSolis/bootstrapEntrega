@@ -1,0 +1,49 @@
+
+#carouselExampleFade{
+    display: block;
+    max-width: 450px;
+    max-height: 450px;
+}
+
+#subtitulo1{
+    border-bottom: 1px solid rgb(233, 198, 124);
+}
+.subtitulo{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid rgb(233, 198, 124);
+    margin: 50px;
+}
+
+#subImg1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#subImg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.separador {
+    background-color:rgb(233, 198, 124);
+    height: 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.footer {
+    margin-top: 75px;
+    background-color: rgb(160, 160, 160);
+    color: #fff;
+}
+.footer div div div i{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
